@@ -1,4 +1,4 @@
 def hello:
-    return "Radhe Radhe RadheShyam!!"
+    return "Radhe Radhe!!"
     
 print(hello)
